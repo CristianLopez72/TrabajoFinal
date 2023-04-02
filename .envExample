@@ -1,0 +1,19 @@
+PORT=8080
+ADM_EMAIL='clopez@maderopublicidad.com'
+SRV_EMAIL='clopez@maderopublicidad.com'
+MONGO_ATLAS_SRV="mongodb://127.0.0.1:27017/TPFinalCoder"
+ETHEREAL_PORT= 587
+EMAIL='clopez@maderopublicidad.com'
+PASSWORD='cristianLopez'
+SID='AC0fb80b519df7d940f7f04cbe0fd79512'
+TOKEN='mi token'
+PHONE='+5491166850200'
+PHONE_wpp='whatsapp:+15855846738'
+PHONE_ADMIN = 'whatsapp:+549 number'
+MONGO_ATLAS_DB_NAME='coderhouse'
+SECRET_STRING= 'string1'
+CRYPTO_SECRET= 'string2'
+HOST= 'smtp.ethereal.email'
+
+
+
